@@ -24,12 +24,12 @@ logfile=/var/log/yum.log
 
 10) tree
 .
-├── mirrors.jenkins.io
-│   └── redhat
-│       ├── jenkins-2.100-1.1.noarch.rpm
-│       ├── jenkins-2.101-1.1.noarch.rpm
-│       ├── jenkins-2.102-1.1.noarch.rpm
-│       ├── jenkins-2.103-1.1.noarch.rpm
+* ├── mirrors.jenkins.io
+* │   └── redhat
+* │       ├── jenkins-2.100-1.1.noarch.rpm
+* │       ├── jenkins-2.101-1.1.noarch.rpm
+* │       ├── jenkins-2.102-1.1.noarch.rpm
+* │       ├── jenkins-2.103-1.1.noarch.rpm
 │       ├── jenkins-2.104-1.1.noarch.rpm
 │       ├── jenkins-2.105-1.1.noarch.rpm
 │       ├── jenkins-2.106-1.1.noarch.rpm

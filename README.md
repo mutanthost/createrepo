@@ -1,6 +1,6 @@
 # createrepo
 
-Just some notes to self for creating a local yum repo n an Ubuntu box.
+Just some notes to self for creating a local yum repo on an Ubuntu box from a remote yum repo
 
 The expired SSL certs and seemingly unstructured state of the Jenkins or Jenkins-ci repos prompted me in this endeavor.
 

@@ -23,7 +23,7 @@ logfile=/var/log/yum.log
 9) createrepo -v -p .
 
 10) tree
-.
+
 * | ├── mirrors.jenkins.io
 * | └── redhat
 * | ├── jenkins-2.180-1.1.noarch.rpm

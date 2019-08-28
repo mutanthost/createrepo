@@ -24,20 +24,20 @@ logfile=/var/log/yum.log
 
 10) tree
 .
-* |├── mirrors.jenkins.io
-* |    └── redhat
-* |     ├── jenkins-2.180-1.1.noarch.rpm
-* |     ├── jenkins-2.181-1.1.noarch.rpm
-* |     ├── jenkins-2.182-1.1.noarch.rpm
-* |     ├── jenkins-2.183-1.1.noarch.rpm
-* |     ├── jenkins-2.184-1.1.noarch.rpm
-* |     ├── jenkins-2.185-1.1.noarch.rpm
-* |     ├── jenkins-2.186-1.1.noarch.rpm
-* |     ├── jenkins-2.187-1.1.noarch.rpm
-* |     ├── jenkins-2.189-1.1.noarch.rpm
-* |     ├── jenkins-2.190-1.1.noarch.rpm
-* |     ├── jenkins-2.191-1.1.noarch.rpm
-* |      repodata
+* |  ├── mirrors.jenkins.io
+* |    |└── redhat
+* |    | ├── jenkins-2.180-1.1.noarch.rpm
+* |    | ├── jenkins-2.181-1.1.noarch.rpm
+* |    | ├── jenkins-2.182-1.1.noarch.rpm
+* |    | ├── jenkins-2.183-1.1.noarch.rpm
+* |    | ├── jenkins-2.184-1.1.noarch.rpm
+* |    | ├── jenkins-2.185-1.1.noarch.rpm
+* |    | ├── jenkins-2.186-1.1.noarch.rpm
+* |    | ├── jenkins-2.187-1.1.noarch.rpm
+* |    | ├── jenkins-2.189-1.1.noarch.rpm
+* |    | ├── jenkins-2.190-1.1.noarch.rpm
+* |    | ├── jenkins-2.191-1.1.noarch.rpm
+* |     | repodata
 * |       ├── 134f22b5ee1052b311ac47f5d9156ce960a87cc2ba437bae88f213084a92e86d-primary.sqlite.bz2
 * |       ├── 15a095717d51930038e4c0193befbed7f647a010a28340dd9da62db6dc24a174-filelists.sqlite.bz2
 * |       ├── 2e903383cdbbbd2ef49b62307919aa4d805cb1c76d162662ee499fca4b6071b5-other.sqlite.bz2

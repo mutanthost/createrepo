@@ -26,84 +26,6 @@ logfile=/var/log/yum.log
 .
 * ├── mirrors.jenkins.io
 * │   └── redhat
-* │       ├── jenkins-2.100-1.1.noarch.rpm
-* │       ├── jenkins-2.101-1.1.noarch.rpm
-* │       ├── jenkins-2.102-1.1.noarch.rpm
-* │       ├── jenkins-2.103-1.1.noarch.rpm
-* │       ├── jenkins-2.104-1.1.noarch.rpm
-* │       ├── jenkins-2.105-1.1.noarch.rpm
-* │       ├── jenkins-2.106-1.1.noarch.rpm
-* │       ├── jenkins-2.107-1.1.noarch.rpm
-* │       ├── jenkins-2.108-1.1.noarch.rpm
-* │       ├── jenkins-2.109-1.1.noarch.rpm
-* │       ├── jenkins-2.110-1.1.noarch.rpm
-* │       ├── jenkins-2.111-1.1.noarch.rpm
-* │       ├── jenkins-2.112-1.1.noarch.rpm
-* │       ├── jenkins-2.113-1.1.noarch.rpm
-* │       ├── jenkins-2.114-1.1.noarch.rpm
-* │       ├── jenkins-2.115-1.1.noarch.rpm
-* │       ├── jenkins-2.116-1.1.noarch.rpm
-* │       ├── jenkins-2.117-1.1.noarch.rpm
-* │       ├── jenkins-2.118-1.1.noarch.rpm
-* │       ├── jenkins-2.119-1.1.noarch.rpm
-* │       ├── jenkins-2.120-1.1.noarch.rpm
-* │       ├── jenkins-2.121-1.1.noarch.rpm
-* │       ├── jenkins-2.122-1.1.noarch.rpm
-* │       ├── jenkins-2.124-1.1.noarch.rpm
-* │       ├── jenkins-2.125-1.1.noarch.rpm
-* │       ├── jenkins-2.126-1.1.noarch.rpm
-* │       ├── jenkins-2.127-1.1.noarch.rpm
-* │       ├── jenkins-2.128-1.1.noarch.rpm
-* │       ├── jenkins-2.129-1.1.noarch.rpm
-* │       ├── jenkins-2.130-1.1.noarch.rpm
-* │       ├── jenkins-2.131-1.1.noarch.rpm
-* │       ├── jenkins-2.132-1.1.noarch.rpm
-* │       ├── jenkins-2.133-1.1.noarch.rpm
-* │       ├── jenkins-2.134-1.1.noarch.rpm
-* │       ├── jenkins-2.135-1.1.noarch.rpm
-* │       ├── jenkins-2.136-1.1.noarch.rpm
-* │       ├── jenkins-2.137-1.1.noarch.rpm
-* │       ├── jenkins-2.138-1.1.noarch.rpm
-* │       ├── jenkins-2.140-1.1.noarch.rpm
-* │       ├── jenkins-2.141-1.1.noarch.rpm
-* │       ├── jenkins-2.142-1.1.noarch.rpm
-* │       ├── jenkins-2.143-1.1.noarch.rpm
-* │       ├── jenkins-2.144-1.1.noarch.rpm
-* │       ├── jenkins-2.145-1.1.noarch.rpm
-* │       ├── jenkins-2.146-1.1.noarch.rpm
-* │       ├── jenkins-2.147-1.1.noarch.rpm
-* │       ├── jenkins-2.148-1.1.noarch.rpm
-* │       ├── jenkins-2.149-1.1.noarch.rpm
-* │       ├── jenkins-2.150-1.1.noarch.rpm
-* │       ├── jenkins-2.151-1.1.noarch.rpm
-* │       ├── jenkins-2.152-1.1.noarch.rpm
-* │       ├── jenkins-2.153-1.1.noarch.rpm
-* │       ├── jenkins-2.154-1.1.noarch.rpm
-* │       ├── jenkins-2.155-1.1.noarch.rpm
-* │       ├── jenkins-2.156-1.1.noarch.rpm
-* │       ├── jenkins-2.157-1.1.noarch.rpm
-* │       ├── jenkins-2.158-1.1.noarch.rpm
-* │       ├── jenkins-2.159-1.1.noarch.rpm
-* │       ├── jenkins-2.160-1.1.noarch.rpm
-* │       ├── jenkins-2.161-1.1.noarch.rpm
-* │       ├── jenkins-2.162-1.1.noarch.rpm
-* │       ├── jenkins-2.163-1.1.noarch.rpm
-* │       ├── jenkins-2.164-1.1.noarch.rpm
-* │       ├── jenkins-2.165-1.1.noarch.rpm
-* │       ├── jenkins-2.166-1.1.noarch.rpm
-* │       ├── jenkins-2.167-1.1.noarch.rpm
-* │       ├── jenkins-2.168-1.1.noarch.rpm
-* │       ├── jenkins-2.169-1.1.noarch.rpm
-* │       ├── jenkins-2.170-1.1.noarch.rpm
-* │       ├── jenkins-2.171-1.1.noarch.rpm
-* │       ├── jenkins-2.172-1.1.noarch.rpm
-* │       ├── jenkins-2.173-1.1.noarch.rpm
-* │       ├── jenkins-2.174-1.1.noarch.rpm
-* │       ├── jenkins-2.175-1.1.noarch.rpm
-* │       ├── jenkins-2.176-1.1.noarch.rpm
-* │       ├── jenkins-2.177-1.1.noarch.rpm
-* │       ├── jenkins-2.178-1.1.noarch.rpm
-* │       ├── jenkins-2.179-1.1.noarch.rpm
 * │       ├── jenkins-2.180-1.1.noarch.rpm
 * │       ├── jenkins-2.181-1.1.noarch.rpm
 * │       ├── jenkins-2.182-1.1.noarch.rpm
@@ -115,14 +37,12 @@ logfile=/var/log/yum.log
 * │       ├── jenkins-2.189-1.1.noarch.rpm
 * │       ├── jenkins-2.190-1.1.noarch.rpm
 * │       ├── jenkins-2.191-1.1.noarch.rpm
-* │       └── repodata
-* │           ├── 128e0e346a712258225d095fb497e93e5c008bb66bfa04267d012c82a8f450c0-primary.xml.gz
-* │           ├── 3680fe57b7b97a16db07f44076acc13a4037b28aa8aaa791ee12d1d1a91ea3d0-filelists.xml.gz
-* │           ├── 5d2fc6292e18670766683e01bc27849f87c6222ac24257f80d5de57cd27fd573-primary.sqlite.bz2
-* │           ├── 7f13915818eded3ebcc7f8e8bb6bc03ff384e85319d553740f8c0f45ff31c182-filelists.sqlite.bz2
-* │           ├── 9bfc2ec7dac9819a687d56d39fcc07b7f54a99a733bb05add7dc451514e14e94-other.sqlite.bz2
-* │           ├── f5baf1e33952f7afc36517ff32211070f48126b2492ab281ec58ddb93c0a2a14-other.xml.gz
-* │           └── repomd.xml
-* 
-
-3 directories, 97 files
+* │       repodata
+        ├── 134f22b5ee1052b311ac47f5d9156ce960a87cc2ba437bae88f213084a92e86d-primary.sqlite.bz2
+        ├── 15a095717d51930038e4c0193befbed7f647a010a28340dd9da62db6dc24a174-filelists.sqlite.bz2
+        ├── 2e903383cdbbbd2ef49b62307919aa4d805cb1c76d162662ee499fca4b6071b5-other.sqlite.bz2
+        ├── 3853ebb42398c4e25d82630aa3f8e9348dab2c8de9da69426bd38e01f7a054f6-filelists.xml.gz
+        ├── 83a25d1200c3c16dc37c8e6bb4de435b98de9fa7c6716d0a4a303fdf9fd62e6d-other.xml.gz
+        ├── c424315a92f64aa546652e887450355b81ec0587a93feee6093912ec8b32aefb-primary.xml.gz
+        └── repomd.xml
+2 directories, 18 files

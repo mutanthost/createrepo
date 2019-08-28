@@ -123,6 +123,6 @@ logfile=/var/log/yum.log
 * │           ├── 9bfc2ec7dac9819a687d56d39fcc07b7f54a99a733bb05add7dc451514e14e94-other.sqlite.bz2
 * │           ├── f5baf1e33952f7afc36517ff32211070f48126b2492ab281ec58ddb93c0a2a14-other.xml.gz
 * │           └── repomd.xml
-* └── rsync.jenkins
+* 
 
 3 directories, 97 files

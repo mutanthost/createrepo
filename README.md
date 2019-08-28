@@ -10,10 +10,10 @@ The expired SSL certs and seemingly unstructured state of the Jenkins or Jenkins
 3) sudo vi /etc/yum.conf
  
 
-[main]
-cachedir=/var/cache/yum
-debuglevel=2
-logfile=/var/log/yum.log
+* [main]
+* cachedir=/var/cache/yum
+* debuglevel=2
+* logfile=/var/log/yum.log
 
 4) sudo mkdir -p /var/cache/yum
 5) sudo mkdir -p /path/to/where/you/want/to/save/the/below
